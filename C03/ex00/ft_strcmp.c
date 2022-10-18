@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strcmp.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: luclopez <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: luclopez <luclopez@student.42malaga.c      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/24 08:26:38 by luclopez          #+#    #+#             */
 /*   Updated: 2022/08/29 10:04:25 by luclopez         ###   ########.fr       */
