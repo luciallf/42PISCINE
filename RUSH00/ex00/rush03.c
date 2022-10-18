@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   rush03.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: luclopez <luclopez@student.42.fr>          +#+  +:+       +#+        */
+/*   By: luclopez <luclopez@student.42malaga.c      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/13 09:36:33 by luclopez          #+#    #+#             */
 /*   Updated: 2022/08/14 16:17:58 by luclopez         ###   ########.fr       */
