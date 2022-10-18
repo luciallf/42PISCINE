@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_rev_params.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: luclopez <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: luclopez <luclopez@student.42malaga.c      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/24 15:36:07 by luclopez          #+#    #+#             */
 /*   Updated: 2022/08/31 12:32:14 by luclopez         ###   ########.fr       */
