@@ -3,7 +3,7 @@
 #                                                         :::      ::::::::    #
 #    makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: paescano <paescano@student.42.fr>          +#+  +:+       +#+         #
+#    By: luclopez <luclopez@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/08/27 11:44:04 by luclopez          #+#    #+#              #
 #    Updated: 2022/08/29 19:22:03 by luclopez         ###   ########.fr        #
