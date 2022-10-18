@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print2.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: luclopez <luclopez@student.42.fr>          +#+  +:+       +#+        */
+/*   By: luclopez <luclopez@student.42malaga.c      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/28 20:27:09 by luclopez          #+#    #+#             */
 /*   Updated: 2022/08/29 19:19:20 by luclopez         ###   ########.fr       */
