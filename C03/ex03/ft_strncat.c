@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strncat.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: luclopez <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: luclopez <luclopez@student.42malaga.c      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/28 14:20:05 by luclopez          #+#    #+#             */
 /*   Updated: 2022/08/29 10:07:50 by luclopez         ###   ########.fr       */
