@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   checker.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: luclopez <luclopez@student.42.fr>          +#+  +:+       +#+        */
+/*   By: luclopez <luclopez@student.42malaga.c      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/27 12:02:09 by luclopez          #+#    #+#             */
 /*   Updated: 2022/08/29 18:52:44 by luclopez         ###   ########.fr       */
